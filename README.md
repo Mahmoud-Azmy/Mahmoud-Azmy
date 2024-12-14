@@ -25,10 +25,6 @@
 <br>
 ## 📊 Github Status  
 
-</p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Azmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Azmy" /> 
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Azmy)  
 
