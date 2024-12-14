@@ -38,6 +38,7 @@
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark&borderRadius=20)
 ![C](https://skillicons.dev/icons?i=c&theme=dark&borderRadius=20)
 ![java](https://skillicons.dev/icons?i=java&theme=dark&borderRadius=20)
+![python](https://skillicons.dev/icons?i=python&theme=dark&borderRadius=20)
 
 
 ## 🛠️ Tools
