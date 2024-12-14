@@ -24,10 +24,6 @@
 </div>
 <br>
 
-## ⏰ CodeTime Dashboard
-
-[![wakatime](https://wakatime.com/badge/user/018cc21c-9074-41f8-a352-65edefaa8d15.svg)](https://wakatime.com/@018cc21c-9074-41f8-a352-65edefaa8d15)
-
 
 ## 📊 Github Status  
 
