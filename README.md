@@ -3,10 +3,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-azmy46/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://web.facebook.com/profile.php?id=100010202880526"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 
-</p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Azmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Azmy" /> 
-</p>
+
 
 
 - 🔭 I’m currently working on Flutter applications.
@@ -26,6 +23,11 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
+</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Azmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Azmy" /> 
+</p>
 
 <!--
 **Mahmoud-Azmy/Mahmoud-Azmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
