@@ -25,8 +25,14 @@
 <br>
 
 
-## 📊 Github Status  
+## 💻 Tech Stack
+![Dart](https://skillicons.dev/icons?i=dart&theme=dark&borderRadius=20)
+![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark&borderRadius=20)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark&borderRadius=20)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark&borderRadius=20)
 
+
+## 📊 Github Status 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Azmy)  
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-Azmy&title=Repositories,Commits,PullRequest&column=-1)  
