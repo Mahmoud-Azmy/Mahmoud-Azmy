@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mahmoud+Azmy....;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
+
 ## Hi I'm Mahmoud  👋
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-azmy46/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" /></a>
