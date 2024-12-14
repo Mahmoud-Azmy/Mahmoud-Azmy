@@ -1,4 +1,9 @@
-## Hi I`m Mahmoud  👋
+## Hi I'm Mahmoud  👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-azmy46/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  
+
+</p>
 
 <!--
 **Mahmoud-Azmy/Mahmoud-Azmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
