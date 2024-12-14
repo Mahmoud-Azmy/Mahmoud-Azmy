@@ -34,6 +34,15 @@
 ![java](https://skillicons.dev/icons?i=java&theme=dark&borderRadius=20)
 
 
+## 🛠️ Tools
+
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark&borderRadius=20)
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark&borderRadius=20)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark&borderRadius=20)
+![Git](https://skillicons.dev/icons?i=git&theme=dark&borderRadius=20)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark&borderRadius=20)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark&borderRadius=20)
+
 ## 📊 Github Status 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Azmy)  
 
