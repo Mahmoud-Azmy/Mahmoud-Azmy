@@ -23,11 +23,23 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+## 📊 Github Status  
 
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Azmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Azmy" /> 
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Azmy)  
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-Azmy&title=Repositories,Commits,PullRequest&column=-1)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-Azmy&border_radius=7.5&theme=dark)](https://git.io/streak-stats)  
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Azmy&show_icons=true&theme=dark&rank_icon=percentile)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Azmy&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **Mahmoud-Azmy/Mahmoud-Azmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
