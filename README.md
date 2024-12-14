@@ -4,6 +4,10 @@
   <a href="https://web.facebook.com/profile.php?id=100010202880526"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 
 </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Azmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Azmy" /> 
+</p>
+
 
 - 🔭 I’m currently working on Flutter applications.
 - 🌱 I’m currently learning advanced Flutter techniques, testing, and flutterflow.
