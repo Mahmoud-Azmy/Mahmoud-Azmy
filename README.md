@@ -30,6 +30,7 @@
 ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark&borderRadius=20)
 ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark&borderRadius=20)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark&borderRadius=20)
+![C](https://skillicons.dev/icons?i=c&theme=dark&borderRadius=20)
 
 
 ## 📊 Github Status 
