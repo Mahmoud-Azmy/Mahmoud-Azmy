@@ -23,9 +23,11 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
 ## ⏰ CodeTime Dashboard
 
 [![wakatime](https://wakatime.com/badge/user/018cc21c-9074-41f8-a352-65edefaa8d15.svg)](https://wakatime.com/@018cc21c-9074-41f8-a352-65edefaa8d15)
+
 
 ## 📊 Github Status  
 
