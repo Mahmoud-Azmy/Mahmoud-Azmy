@@ -5,10 +5,8 @@
 
 </p>
 
-- 🔭 I’m currently working on Flutter applications, including Notes, Bookly, and Shop Apps, as well as exploring state management and backend integration.
-- 🌱 I’m currently learning advanced Flutter techniques, Firebase integration, and REST API development.
-- 👯 I’m looking to collaborate on mobile app development projects, especially those that require modern UI/UX and scalable architecture.
-- 🤔 I’m looking for help with optimizing app performance and exploring CI/CD pipelines for Flutter projects.
+- 🔭 I’m currently working on Flutter applications.
+- 🌱 I’m currently learning advanced Flutter techniques, testing, and flutterflow.
 - 💬 Ask me about Flutter development, Dart programming, and how to build scalable and efficient mobile apps.
 - 📫 How to reach me:  
   - Email: [mahmoud.azmyali1902@gmail.com](mailto:mahmoud.azmyali1902@gmail.com)  
