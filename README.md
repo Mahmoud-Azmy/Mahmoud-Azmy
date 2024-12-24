@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mahmoud+Azmy....;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
+
 
 ## Hi I'm Mahmoud  👋
 <p align="center">
@@ -60,6 +56,12 @@
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Azmy&show_icons=true&theme=dark&rank_icon=percentile)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Azmy&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
 
 <!--
