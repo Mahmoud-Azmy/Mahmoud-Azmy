@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on Flutter applications.
-- 🌱 I’m currently learning advanced Flutter techniques, testing, and flutterflow.
+
 - 💬 Ask me about Flutter development, Dart programming, and how to build scalable and efficient mobile apps.
 - 📫 How to reach me:  
   - Email: [mahmoud.azmyali1902@gmail.com](mailto:mahmoud.azmyali1902@gmail.com)  
