@@ -16,7 +16,7 @@
   - LinkedIn: [linkedin.com/in/mahmoud-azmy46](https://www.linkedin.com/in/mahmoud-azmy46/)  
   - Phone: +201155249946  
 
-- ⚡ Fun fact: I enjoy creating visually appealing and highly functional mobile apps, and I love experimenting with Flutter widgets to deliver unique user experiences.
+
 
 
 
