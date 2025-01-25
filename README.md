@@ -7,7 +7,7 @@
 
 
 
-
+- Studies at the Department of Computer and Systems Engineering at the Faculty of Engineering, Fayoum University
 - 🔭 I’m currently working on Flutter applications.
 
 - 💬 Ask me about Flutter development, Dart programming, and how to build scalable and efficient mobile apps.
